@@ -1,0 +1,23 @@
+body{
+  background-color: #00D1A8;
+}
+
+h1 {
+  background:#8600D5;
+  width:90%;
+  max-width:1000px;
+  margin:auto;
+  overflow:hidden;
+  font-family: Lucida, Monospace;
+  font-size: 40px;
+}
+
+section{
+  background:#FFEC00;
+  width:90%;
+  max-width:1000px;
+  margin:auto;
+  overflow:hidden;
+  font-size: 30px;
+  align-content: center;
+}
